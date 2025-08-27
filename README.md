@@ -19,12 +19,12 @@
 <p align="left">
 <a href="https://dev.to/cloudwalker_143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cloudwalker_143" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/surya-sujit-d-walker/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/surya-sujit-d-walker/" height="30" width="40" /></a>
-<a href="mailto:suryasujit.n22@iiits.in"><img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="mailto:suryasujit.n22@iiits.in"><img src="https://img.shields.io/badge/Email-red?style=flat-square&logo=gmail&logoColor=white" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/robin_swan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/robin_swan/" height="30" width="40" /></a>
 </p>
 
 
-## 🌟 LeetCode & Competitive Programming
+## 🌟 LeetCode
 🎯 Regular participant in contests and DSA challenges.
 
 <p align="center">
